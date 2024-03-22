@@ -1,18 +1,65 @@
+# Interface JDBC para Python
+JayDeBeApi==1.2.3
+
+# Para plotagem de contornos em matplotlib
 contourpy==1.2.0
+
+# Utilitário de criação de ciclos para matplotlib
 cycler==0.12.1
+
+# Ferramenta para manipulação de fontes
 fonttools==4.50.0
+
+# Biblioteca para paralelismo leve
 joblib==1.3.2
+
+# Ponte entre Java e Python
+jpype1==1.3.0
+
+# Resolvedor de restrições para gráficos Python
 kiwisolver==1.4.5
+
+# Biblioteca de plotagem para Python
 matplotlib==3.8.3
+
+# Biblioteca de cálculo numérico
 numpy==1.26.4
+
+# Core utilities for Python packages
 packaging==24.0
+
+# Análise de dados e estruturas de dados
 pandas==2.2.1
+
+# Suporte a imagens para Python
 pillow==10.2.0
+
+# Análise sintática de strings para Python
 pyparsing==3.1.2
+
+# Extensões para manipulação de datas e horas
 python-dateutil==2.9.0.post0
+
+# Carrega variáveis de ambiente de um arquivo .env
+python-dotenv==0.19.2
+
+# Biblioteca de fuso horário
 pytz==2024.1
+
+# Algoritmos e ferramentas de aprendizado de máquina
 scikit-learn==1.4.1.post1
+
+# Biblioteca para cálculos científicos
 scipy==1.12.0
+
+# Visualização de dados estatísticos
+seaborn==0.11.2
+
+# Biblioteca Python para trabalhar com números
 six==1.16.0
+
+# Utilitário para controlar o pool de threads
 threadpoolctl==3.4.0
+
+# Dados de fuso horário
 tzdata==2024.1
