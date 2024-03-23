@@ -1,7 +1,5 @@
 # Análise de Solicitação de Credenciamento
 
-Este é um projeto de análise de solicitações de credenciamento, desenvolvido por [Seu Nome].
-
 ## Descrição
 
 Este projeto visa analisar os dados de solicitações de credenciamento de uma determinada instituição. O objetivo é entender a distribuição dos diferentes estados de credenciamento ao longo do tempo e identificar padrões ou tendências.
@@ -20,8 +18,7 @@ O projeto está organizado da seguinte maneira:
 
 1. Clone este repositório:
 
-##>>
-
+https://github.com/marcelo7bastos/analise_credenciamento
 
 2. Instale as dependências necessárias:
 
